@@ -14,7 +14,7 @@ Asegúrate de tener instalado en tu equipo:
 ## 🛠️ Instalación y Configuración Local
 
 1. **Clona el repositorio o descarga el proyecto:**
-   ```bash
+
    git clone https://github.com/hvar90/django-postgres-jwt-crud.git
    cd django-postgres-jwt-crud
 
