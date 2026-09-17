@@ -15,7 +15,7 @@ Asegúrate de tener instalado en tu equipo:
 
 1. **Clona el repositorio o descarga el proyecto:**
    ```bash
-   git clone <url-de-tu-repositorio>
+   git clone https://github.com/hvar90/django-postgres-jwt-crud.git
    cd mi-proyecto-crud
 
 ```
