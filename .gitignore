@@ -1,0 +1,48 @@
+# Python / Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Entornos virtuales locales (por si decides crear uno fuera de Docker)
+venv/
+ENV/
+env/
+
+# Variables de entorno y secretos (¡Crucial!)
+.env
+
+# Archivos de la base de datos local SQLite (si llegaras a usarla en local)
+*.sqlite3
+db.sqlite3
+
+# Directorio de datos persistentes de Docker para PostgreSQL
+postgres_data/
+
+# Logs y archivos del sistema operativo
+*.log
+local_settings.py
+db.sqlite3-journal
+.DS_Store
+Thumbs.db
+
+# Directorios de VS Code
+.vscode/
